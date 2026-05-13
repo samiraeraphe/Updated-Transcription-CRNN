@@ -1,0 +1,8 @@
+Best trial:
+ Value:  1.6631410121917725
+ Params: 
+    learning_rate: 0.0005553356219135999
+    dropout_rate: 0.21976971991582858
+    lstm_units1: 232
+    lstm_units2: 222
+    optimizer: RMSprop

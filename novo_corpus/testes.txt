@@ -1,0 +1,29 @@
+inicial 
+Média do WER: 0.018869298774362067
+Média do CER: 0.004440170446778786
+BLEU Score médio para o conjunto de teste: 0.8980
+
+beam width 25
+Média do WER: 0.12303596544102874
+Média do CER: 0.035326957771629516
+BLEU Score médio para o conjunto de teste: 0.6669
+
+beam width = 10
+Média do WER: 0.12785609257128244
+Média do CER: 0.03519533649482965
+BLEU Score médio para o conjunto de teste: 0.6583
+
+beam width 50
+Média do WER: 0.14261101064898532
+Média do CER: 0.02902220512359362
+BLEU Score médio para o conjunto de teste: 0.6525
+
+beam width 2
+Média do WER: 0.11859225514288806
+Média do CER: 0.025423602291830525
+BLEU Score médio para o conjunto de teste: 0.6753
+
+beam width 3
+Média do WER: 0.15816254771950974
+Média do CER: 0.03502385645132826
+BLEU Score médio para o conjunto de teste: 0.6362

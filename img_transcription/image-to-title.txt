@@ -1,0 +1,116 @@
+texto1_pagina1 - Carta de Allan Kardec para Marquês Francesco Sampieri [07/05/1863]
+
+texto2_pagina1 - 
+texto2_pagina2 - 
+texto2_pagina3 - Carta de Allan Kardec para Amélie Gabrielle Boudet [09/10/1841]
+
+texto3_pagina1 - 
+texto3_pagina2 - Carta de Allan Kardec para Amélie Gabrielle Boudet [21/05/1835]
+
+texto4_pagina5 - Carta de Allan Kardec para Amélie Boudet [12/10/1843]
+
+texto5_pagina1 - 
+texto5_pagina2 - 
+texto5_pagina3 - Carta de Allan Kardec [14/08/1866]
+
+texto6_pagina1 - Carta de Allan Kardec [10/12/1866]
+
+[Não utilizada] 7 - Anotação [DD/MM/AAAA]
+
+[Não utilizada] texto7_pagina1 - Comunicação/Diálogo [31/01/1865]
+
+texto7_pagina1 - Carta para o senhor chefe de polícia [DD/MM/1857]
+
+texto8_pagina1 - 
+texto8_pagina2 - 
+texto8_pagina3 - Carta de Allan Kardec para Amélie Gabrielle Boudet [19/09/1864]
+
+texto9_pagina1 - 
+texto9_pagina2 - 
+texto9_pagina3 - 
+texto9_pagina4 - Rascunho de carta de Allan Kardec para Amélie Gabrielle Boudet [20/11/AAAA]
+
+texto10_pagina1 - Carta de Hypolite Rivail para Amélie Boudet [26/08/1834]
+
+texto11_pagina1 - Carta de Hypolite Rivail para Amélie Boudet [12/10/1841]
+
+texto12_pagina1 - Carta de Hypolite Rivail para Amélie Boudet [21/06/1842]
+
+texto13_pagina1 - Carta de Allan Kardec para Amélie Boudet [22/10/1843]
+
+texto14_pagina1 - 
+texto14_pagina2 - Carta de Allan Kardec para Amélie Boudet [06/11/1843]
+
+texto15_pagina1 - Carta de Allan Kardec para Amélie Boudet [08/10/1862]
+
+texto16_pagina1 - Prece de Allan Kardec [02/12/1866]
+
+texto17_pagina1 - Carta de Allan Kardec [10/12/1866]
+
+texto18_pagina1 - 
+texto18_pagina2 - 
+texto18_pagina3 - Carta de Allan Kardec para Amélie Gabrielle Boudet [30/04/1846]
+
+texto19_pagina1 - 
+texto19_pagina2 - Rascunho de carta para o senhor Houat [18/01/1868]
+
+texto20_pagina1 - Rascunho de carta para [?] [26/10/1867]
+
+texto21_pagina1 - Rascunho de carta para o senhor Augustin Babin [07/08/1867]
+
+texto22_pagina1 - 
+texto22_pagina2 - Rascunho de carta para o senhor Vincent [22/01/1865]
+
+texto23_pagina1 - 
+texto23_pagina2 - 
+texto23_pagina3 - Rascunho de carta para o senhor Sabò [05/04/1864]
+
+texto24_pagina1 - 
+texto24_pagina2 - Rascunho de carta para o senhor Dijoud [31/12/1863]
+
+texto25_pagina1 - 
+texto25_pagina2 - Rascunho de carta para o senhor Dalmazzo [12/12/1863]
+
+texto26_pagina1 - 
+texto26_pagina2 - 
+texto26_pagina3 - Carta para o senhor Sabò [10/02/1862]
+
+texto27_pagina1 - Evocação [DD/MM/1860]
+
+texto28_pagina1 - 
+texto28_pagina2 - 
+texto28_pagina3 - 
+texto28_pagina4 - Carta de Allan Kardec para Amélie Boudet [20/09/1861]
+
+texto29_pagina1 - 
+texto29_pagina2 - 
+texto29_pagina3 - 
+texto29_pagina4 - Carta de Allan Kardec para Amélie Boudet [25/09/1862]
+
+texto30_pagina1 - 
+texto30_pagina2 - 
+texto30_pagina3 - Carta de Allan Kardec para Amélie Boudet [03/10/1862]
+
+texto31_pagina1 - 
+texto31_pagina2 - 
+texto31_pagina3 - Projeto concernente ao Espiritismo [DD/MM/AAAA]
+
+texto32_pagina1 - Carta de Allan Kardec para Amélie-Gabrielle Boudet [20/10/1861]
+
+texto33_pagina1 - 
+texto33_pagina2 - Carta de Allan Kardec para Amélie-Gabrielle Boudet [24/10/1842]
+
+texto34_pagina5 - 
+texto34_pagina6 - Carta de Allan Kardec para Amélie-Gabrielle Boudet [23/08/1841]
+
+texto35_pagina1 - 
+texto35_pagina2 - Carta de Allan Kardec para Amélie-Gabrielle Boudet [31/08/1834]
+
+texto36_pagina1 - 
+texto36_pagina2 - Carta de Allan Kardec para Amélie-Gabrielle Boudet [20/08/1834]
+
+texto37_pagina1 - 
+texto37_pagina2 - Rascunho de carta para a senhora Bouillant [11/10/1867]
+
+texto38_pagina1 - 
+texto38_pagina2 - Rascunho de carta para o senhor Vincent [22/01/1865]
