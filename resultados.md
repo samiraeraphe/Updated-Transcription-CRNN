@@ -1,21 +1,24 @@
 # Resultados da alteração de Greedy para Beam Search
 
-Beam width = 3  
-Média do WER: 0.1473025919228451  
-Média do CER: 0.03183300297437053  
-BLEU Score médio para o conjunto de teste: 0.6288  
+Beam Width	WER (↓)	CER (↓)	BLEU Score (↑)
+3	0.1473	0.0318	0.6288
+4	0.1280	0.0271	0.6499
+5	0.1208	0.0237	0.6801
+6	0.1259	0.0286	0.6497
 
-Beam width = 4  
-Média do WER: 0.12803441284453942  
-Média do CER: 0.02713293456557987  
-BLEU Score médio para o conjunto de teste: 0.6499  
+# Resultados da remoção do int_to_char[90] = ' '
 
-Beam width = 5  
-Média do WER: 0.12078812537673296  
-Média do CER: 0.023680224183690722  
-BLEU Score médio para o conjunto de teste: 0.6801  
+Impressões:
+Formato da saída do modelo: (5, 100, 91)  
+Quantidade de caracteres no int_to_char: 90  
+Maior índice no int_to_char: 89  
 
-Beam width = 6  
-Média do WER: 0.125883978890308  
-Média do CER: 0.028608012243416147  
-BLEU Score médio para o conjunto de teste: 0.6497  
+Greedy = true  
+Média do WER: 0.0323513160538477  
+Média do CER: 0.005323021762259378  
+BLEU Score médio para o conjunto de teste: 0.9025  
+
+Greedy false & beam_width = 5  
+Média do WER: 0.16351466747036367
+Média do CER: 0.033822548273738276
+BLEU Score médio para o conjunto de teste: 0.6150
